@@ -15,12 +15,12 @@ html,body{
     background-size: cover;
 }
 .bg-image-hero {
-    background-image: url("assets/bg image.png");
+    background-image: url("/assets/images/bgimage.png");
     background-position: center;
 }
 
 .bg-image-explore {
-    background-image: url("assets/explore.png");
+    background-image: url("/assets/images/explore.png");
 }
 
 .light-blue{
